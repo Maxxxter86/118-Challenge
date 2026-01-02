@@ -1,0 +1,14 @@
+{
+  "name": "118 Challenge 2026",
+  "short_name": "118 Challenge",
+  "start_url": "/118-Challenge/",
+  "scope": "/118-Challenge/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#0f0f0f",
+  "description": "Tracker del reto 118 entrenamientos conjuntos en 2026",
+  "icons": [
+    { "src": "/118-Challenge/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/118-Challenge/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
